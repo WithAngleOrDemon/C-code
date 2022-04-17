@@ -1,0 +1,6 @@
+﻿  源.c
+C:\Users\胡欣宇\source\repos\Project1\Project1\源.c(32,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\胡欣宇\source\repos\Project1\Project1\源.c(39,11): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\胡欣宇\source\repos\Project1\Project1\源.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\胡欣宇\source\repos\Project1\Project1\源.c(11,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project1.vcxproj -> C:\Users\胡欣宇\source\repos\Project1\x64\Debug\Project1.exe
